@@ -1,0 +1,3 @@
+1atala : Giterako sarrera
+2atala : Lan basikorako fluxua
+3atala : Repositorio remotoak
